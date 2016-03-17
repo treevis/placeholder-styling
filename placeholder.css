@@ -1,0 +1,18 @@
+input,
+textarea {
+	font: inherit;
+}
+
+::-webkit-input-placeholder {
+	color: inherit;
+}
+
+::-moz-placeholder {
+	color: inherit;
+	/* Firefox lightens the color with opacity. */
+	opacity: 1;
+}
+
+:-ms-input-placeholder {
+	color: inherit;
+}
